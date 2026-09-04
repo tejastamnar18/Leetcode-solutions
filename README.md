@@ -33,4 +33,8 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
