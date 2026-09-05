@@ -9,6 +9,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0001-two-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [3903-smallest-stable-index-i](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
