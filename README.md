@@ -110,4 +110,12 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
