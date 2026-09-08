@@ -24,6 +24,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [3870-count-commas-in-range](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
