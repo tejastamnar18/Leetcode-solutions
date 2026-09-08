@@ -10,6 +10,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0033-search-in-rotated-sorted-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1314-matrix-block-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [3903-smallest-stable-index-i](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -32,6 +33,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 ## Prefix Sum
 |  |
 | ------- |
+| [1314-matrix-block-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [3903-smallest-stable-index-i](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -139,4 +141,8 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Matrix
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
