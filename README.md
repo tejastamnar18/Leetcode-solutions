@@ -10,6 +10,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0033-search-in-rotated-sorted-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0523-continuous-subarray-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0912-sort-an-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1314-matrix-block-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [3903-smallest-stable-index-i](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -18,6 +19,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0523-continuous-subarray-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -26,6 +28,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0523-continuous-subarray-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [3870-count-commas-in-range](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -36,6 +39,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1314-matrix-block-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [3903-smallest-stable-index-i](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -148,4 +152,8 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
