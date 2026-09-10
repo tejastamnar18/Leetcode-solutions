@@ -9,6 +9,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0001-two-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0238-product-of-array-except-self](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0523-continuous-subarray-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -87,6 +88,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -137,6 +139,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Queue
@@ -167,8 +170,13 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
