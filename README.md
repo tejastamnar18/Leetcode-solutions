@@ -98,6 +98,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0144-binary-tree-preorder-traversal](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0144-binary-tree-preorder-traversal](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0144-binary-tree-preorder-traversal](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
