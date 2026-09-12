@@ -16,6 +16,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0912-sort-an-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1314-matrix-block-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -55,6 +56,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Database
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -145,6 +148,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0042-trapping-rain-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Queue
 |  |
 | ------- |
