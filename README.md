@@ -15,6 +15,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0523-continuous-subarray-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0912-sort-an-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1314-matrix-block-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -37,6 +38,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0002-add-two-numbers](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0523-continuous-subarray-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [3870-count-commas-in-range](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -183,6 +185,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Monotonic Stack
 |  |
 | ------- |
