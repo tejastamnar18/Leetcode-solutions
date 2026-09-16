@@ -10,6 +10,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0011-container-with-most-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0523-continuous-subarray-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -155,6 +156,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0198-house-robber](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
