@@ -16,6 +16,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0239-sliding-window-maximum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0403-frog-jump](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0523-continuous-subarray-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -165,6 +166,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0213-house-robber-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
