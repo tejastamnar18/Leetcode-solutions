@@ -23,6 +23,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1314-matrix-block-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -174,6 +175,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0918-maximum-sum-circular-subarray](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Queue
