@@ -32,6 +32,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -159,6 +160,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -187,6 +189,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Monotonic Queue
 |  |
