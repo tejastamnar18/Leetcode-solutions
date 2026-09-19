@@ -48,6 +48,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0523-continuous-subarray-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3870-count-commas-in-range](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -227,6 +228,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Memoization
 |  |
 | ------- |
