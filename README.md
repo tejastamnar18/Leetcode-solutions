@@ -27,6 +27,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -53,6 +54,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -246,4 +248,8 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
