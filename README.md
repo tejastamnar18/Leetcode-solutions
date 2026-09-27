@@ -132,6 +132,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0144-binary-tree-preorder-traversal](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -179,6 +180,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -271,4 +273,8 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
