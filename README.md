@@ -132,6 +132,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -183,6 +184,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -290,6 +292,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
