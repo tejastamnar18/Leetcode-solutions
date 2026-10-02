@@ -10,6 +10,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0011-container-with-most-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0198-house-robber) |
@@ -244,6 +245,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1314-matrix-block-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Pigeonhole Principle
@@ -286,6 +288,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
