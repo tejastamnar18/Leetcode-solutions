@@ -192,6 +192,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0022-generate-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0151-reverse-words-in-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -261,6 +262,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | ------- |
 | [0011-container-with-most-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
