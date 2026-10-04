@@ -44,6 +44,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | ------- |
 | [0001-two-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -194,6 +195,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0020-valid-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -240,6 +242,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
