@@ -14,6 +14,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0054-spiral-matrix](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -94,6 +95,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
