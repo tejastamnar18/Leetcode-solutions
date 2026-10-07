@@ -189,6 +189,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | ------- |
 | [0100-same-tree](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## DP on Trees
 |  |
@@ -205,6 +206,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 | [0076-minimum-window-substring](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -327,6 +329,7 @@ Data structures and algorithms practice: My solutions to LeetCode coding challen
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tejastamnar18/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
